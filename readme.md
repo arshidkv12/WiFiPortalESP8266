@@ -53,10 +53,10 @@ To configure WiFi credentials using the portal:
 
 Next time the device restarts, it will auto-connect using the saved credentials.
 
-## 📸 Screenshots (optional)
-<p>
+## 📸 Screenshots
+<div align="center">
   <img src="https://github.com/arshidkv12/WiFiPortalESP8266/blob/main/scr.jpg?raw=true" alt="ESP8266 WIFI" width="500"/>
-</p>
+</div>
 
 ## 🙌 Contributions Welcome
 Feel free to fork, improve, and submit pull requests.
