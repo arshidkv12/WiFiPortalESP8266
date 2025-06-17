@@ -2,7 +2,6 @@
 
 A lightweight and easy-to-use WiFi configuration portal for ESP8266-based boards. Quickly set up SSID, password, and other device parameters through a simple web interface.
 
-![ESP8266 Logo](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/assets/arduino-esp8266.png)
 
 ## 🚀 Features
 
