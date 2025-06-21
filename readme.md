@@ -12,6 +12,12 @@ A lightweight and easy-to-use WiFi configuration portal for ESP8266-based boards
 - Optional device name configuration
 - Easily embeddable in other projects
 
+## 📺 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/f-tT3yUv6D4/hqdefault.jpg)](https://youtu.be/f-tT3yUv6D4)
+
+👉 Click the image above to watch a quick demo on YouTube.
+
 ## 📦 Installation
 
 1. Open Arduino IDE
