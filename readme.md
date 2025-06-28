@@ -37,7 +37,7 @@ WiFiPortalESP8266 portal;
 void setup() {
   Serial.begin(9600); 
   portal.setButtonPin(D7);
-  portal.setDeviceName("ESP-Setup");
+  portal.setDeviceName("ESP Setup");
   portal.connectToWiFi();
   
 }
@@ -52,7 +52,7 @@ void loop() {
 To configure WiFi credentials using the portal:
 
 1. **Press and hold the WiFi setup button (D7 to GND) for 3 seconds.**
-2. On your **mobile phone or laptop**, enable WiFi and connect to the ESP8266 hotspot (e.g., `ESP-Setup`).
+2. On your **mobile phone or laptop**, enable WiFi and connect to the ESP8266 hotspot (e.g., `ESP Setup`).
 3. Open a browser and go to [http://192.168.1.1](http://192.168.1.1).
 4. Enter your WiFi **SSID** and **Password**, then click the **Connect** button.
 5. The ESP8266 will save your WiFi credentials to EEPROM and automatically attempt to connect to your network.
