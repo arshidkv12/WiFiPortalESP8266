@@ -37,7 +37,7 @@ WiFiPortalESP8266 portal;
 void setup() {
   Serial.begin(9600); 
   portal.setButtonPin(D7);
-  portal.setDeviceName("ABC ESP8266");
+  portal.setDeviceName("ESP-Setup");
   portal.connectToWiFi();
   
 }
