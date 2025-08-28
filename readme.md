@@ -2,6 +2,9 @@
 
 A lightweight and easy-to-use WiFi configuration portal for ESP8266-based boards. Quickly set up SSID, password, and other device parameters through a simple web interface.
 
+Feel free to email me at info@mailmug.net — I’m available to customize `WiFiPortalESP8266` for you.
+
+
 
 ## 🚀 Features
 
